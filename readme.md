@@ -18,6 +18,15 @@
 - `散热` 九州风神 堡垒240
 - `机箱` 追风者(PHANTEKS) 416PTG钢化玻璃RGB版
 
+## 变更记录
 
+### 20200202
 
+- 更新 Lilu 到 1.4.1
+- 更新 WhateverGreen 到 1.3.6
 
+## 文件说明
+
+- `EFI` 正在使用的EFI
+- `EFI-0c` opencore 抄来的 opencore 引导， 不太完美
+- `EFI15.2` 15.2 版本引导
