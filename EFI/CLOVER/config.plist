@@ -407,7 +407,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02713701GUJG361M</string>
+		<string>C02704100QXJG368C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -444,16 +444,16 @@
 		<key>ProductName</key>
 		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C02THCYBHX87</string>
+		<string>C02T50FHHX87</string>
 		<key>SmUUID</key>
-		<string>5BBC8B53-B54C-419A-B0AF-4D07933FF58B</string>
+		<string>4D2524AA-BE8E-4FC3-846F-37F4C7EEC62D</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
 		<key>CustomUUID</key>
-		<string>8639C427-0C3E-5AC0-940A-39FCF507F530</string>
+		<string>8BCE4D52-51ED-4357-8FE4-54D2B871C355</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
